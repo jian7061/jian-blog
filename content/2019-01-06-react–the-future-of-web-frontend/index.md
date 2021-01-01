@@ -1,7 +1,7 @@
 ---
 title: React – The Future Of Web Frontend
 tags: [reactjs, javascript, typescript, html, css ]
-date: 2019-01-07T05:25:44.226Z
+date: 2021-01-01T05:25:44.226Z
 path: blog/react–the-future-of-web-frontend
 cover: ./preview.png
 excerpt: Working with ReactJS - A library by facebook was a great experience for me. React has made building web apps easy by making use of reusable components. This is clearly my viewpoint about the library. 

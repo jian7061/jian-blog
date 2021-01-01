@@ -1,7 +1,7 @@
 ---
 title: What's new in React 17 ( No new features )
 tags: [ html, css, reactjs ]
-date: 2020-12-24T05:25:44.226Z
+date: 2021-01-01T05:25:44.226Z
 path: blog/react17-new-features
 cover: ./react17.png
 excerpt: In this article let's discuss the new upgrades made to React v17.0 that were released on October 20, 2020. React 17 has no new developer features added to it rather it has features added for backward compatibility.

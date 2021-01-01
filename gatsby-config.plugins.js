@@ -1,4 +1,4 @@
-const config = require('./config');
+const config = require('./config')
 
 module.exports = [
   'gatsby-plugin-react-helmet',
@@ -16,8 +16,8 @@ module.exports = [
   {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      name: 'Rolwin Reevan',
-      short_name: 'Rolwin Reevan',
+      name: 'Jian Kim',
+      short_name: 'Jian Kim',
       start_url: '/',
       background_color: '#304CFD',
       theme_color: '#304CFD',
@@ -102,4 +102,4 @@ module.exports = [
       showSpinner: true,
     },
   },
-];
+]

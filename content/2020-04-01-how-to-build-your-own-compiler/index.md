@@ -1,7 +1,7 @@
 ---
 title: How to build your own compiler ? ( The Worlds smallest compiler )
 tags: [ javascript ]
-date: 2020-04-01T05:25:44.226Z
+date: 2021-01-01T05:25:44.226Z
 path: blog/how-to-build-your-own-compiler
 cover: ./compiler.png
 excerpt: Compilers are there everywhere in our day to day use. Most developers tend to ignore it because they feel only the nerdiest of the geeks can code it. Let's build the worlds smallest compiler to understand how compilers work.
